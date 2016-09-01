@@ -1,10 +1,11 @@
 Dom Wirk
 
-Model: OpenSteelBox60ft2.st7
+Model: ClosedSteelBox60ft.st7
 Discretization: 12 in
-Span Length: 60ft
+Span Length: 60 ft
 Total Length: 120 ft
 Bridge Width: 43 ft
+No. Girders: 3
 
 Deck: Shell Elements (including structural, haunch)
 Beam: Shell Elements (including flanges, and webs)

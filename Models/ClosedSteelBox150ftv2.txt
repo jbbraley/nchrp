@@ -1,0 +1,15 @@
+Dom Wirk
+
+Model: ClosedSteelBox150ftv2.st7
+Discretization: 18 in
+Span Length: 150 ft
+Total Length: 300 ft
+Bridge Width: 43 ft
+No. Girders: 4
+
+Deck: Shell Elements (including structural, haunch)
+Beam: Shell Elements (including flanges, and webs)
+Parapet: Beam Elements
+
+Links: Rigid (XYZ)
+Loads: none
