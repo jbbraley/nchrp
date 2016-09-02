@@ -1,0 +1,15 @@
+Dom Wirk
+
+Model: CIPMultiCellBox100ft.st7
+Discretization: 12 in
+Span Length: 100 ft
+Total Length: 200 ft
+Bridge Width: 47.167 ft
+No. Boxes: 4
+
+Deck: Shell Elements (including top, bottom, overhang)
+Beam: Shell Elements (including webs)
+Parapet: Beam Elements
+
+Links: Rigid (XYZ)
+Loads: none
