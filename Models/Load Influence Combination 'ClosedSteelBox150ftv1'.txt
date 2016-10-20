@@ -1,0 +1,100 @@
+ ________________________________________________________________________________
+  
+ Strand7 R2.4.6 LOAD INFLUENCE GENERATION
+ ________________________________________________________________________________
+  
+ Start Date:         17 October 2016
+ Start Time:         12:02:25 pm
+ Model File:         C:\Users\DomWirk\Documents\git_jbbraley\nchrp\Models\ClosedSteelBox150ftv1.st7
+ Result File:        C:\Users\DomWirk\Documents\git_jbbraley\nchrp\Models\ClosedSteelBox150ftv1.LIA
+ ________________________________________________________________________________
+  
+  
+ Number of response variables considered = 12
+  
+ ________________________________________________________________________________
+ SINGLE VARIABLE (MIN) RESPONSE CASES:
+  
+  NEW LOAD CASE: "Plate(118) FZZ[Global XYZ] [Live Load HL-93] (Min Response)"
+  Path:  1      Lane:  2      Vehicle: 26      Position:   3
+  
+  NEW LOAD CASE: "Plate(128) FZZ[Global XYZ] [Live Load HL-93] (Min Response)"
+  Path:  1      Lane:  1      Vehicle: 26      Position:   3
+  Path:  1      Lane:  2      Vehicle: 20      Position:   3
+  
+  NEW LOAD CASE: "Plate(10584) FXX[Global XYZ] [Live Load HL-93] (Min Response)"
+  Path:  1      Lane:  1      Vehicle: 33      Position:  20
+  Path:  1      Lane:  2      Vehicle: 33      Position:  20
+  Path:  1      Lane:  3      Vehicle: 29      Position:  20
+  
+  NEW LOAD CASE: "Plate(11181) FXX[Global XYZ] [Live Load HL-93] (Min Response)"
+  Path:  1      Lane:  1      Vehicle: 31      Position:  20
+  Path:  1      Lane:  2      Vehicle: 29      Position:  20
+  
+  NEW LOAD CASE: "Plate(23519) FZZ[Global XYZ] [Live Load HL-93] (Min Response)"
+  Path:  1      Lane:  1      Vehicle: 33      Position:  20
+  Path:  1      Lane:  2      Vehicle: 17      Position:  18
+  Path:  1      Lane:  3      Vehicle: 14      Position:  21
+  
+  NEW LOAD CASE: "Plate(23619) FZZ[Global XYZ] [Live Load HL-93] (Min Response)"
+  Path:  1      Lane:  2      Vehicle: 11      Position:  22
+  
+  NEW LOAD CASE: "Plate(25509) FZZ[Global XYZ] [Live Load HL-93] (Min Response)"
+  Path:  1      Lane:  1      Vehicle: 33      Position:  20
+  Path:  1      Lane:  2      Vehicle: 28      Position:  17
+  
+  NEW LOAD CASE: "Plate(25609) FZZ[Global XYZ] [Live Load HL-93] (Min Response)"
+  Path:  1      Lane:  1      Vehicle: 11      Position:  22
+  Path:  1      Lane:  2      Vehicle:  5      Position:  22
+  
+ ________________________________________________________________________________
+ SINGLE VARIABLE (MAX) RESPONSE CASES:
+  
+  NEW LOAD CASE: "Plate(118) FZZ[Global XYZ] [Live Load HL-93] (Max Response)"
+  Path:  1      Lane:  1      Vehicle: 30      Position:  12
+  Path:  1      Lane:  2      Vehicle: 26      Position:   2
+  
+  NEW LOAD CASE: "Plate(128) FZZ[Global XYZ] [Live Load HL-93] (Max Response)"
+  Path:  1      Lane:  1      Vehicle: 15      Position:  12
+  
+  NEW LOAD CASE: "Plate(10530) FXX[Global XYZ] [Live Load HL-93] (Max Response)"
+  Path:  1      Lane:  1      Vehicle: 32      Position:  12
+  Path:  1      Lane:  2      Vehicle: 25      Position:   7
+  Path:  1      Lane:  3      Vehicle: 19      Position:   7
+  
+  NEW LOAD CASE: "Plate(10639) FXX[Global XYZ] [Live Load HL-93] (Max Response)"
+  Path:  1      Lane:  1      Vehicle: 32      Position:  22
+  Path:  1      Lane:  2      Vehicle: 10      Position:  18
+  Path:  1      Lane:  3      Vehicle: 19      Position:  18
+  
+  NEW LOAD CASE: "Plate(11127) FXX[Global XYZ] [Live Load HL-93] (Max Response)"
+  Path:  1      Lane:  1      Vehicle: 22      Position:   7
+  Path:  1      Lane:  2      Vehicle: 19      Position:   7
+  
+  NEW LOAD CASE: "Plate(11236) FXX[Global XYZ] [Live Load HL-93] (Max Response)"
+  Path:  1      Lane:  1      Vehicle:  7      Position:  18
+  Path:  1      Lane:  2      Vehicle:  4      Position:  18
+  
+  NEW LOAD CASE: "Plate(23519) FZZ[Global XYZ] [Live Load HL-93] (Max Response)"
+  Path:  1      Lane:  4      Vehicle: 30      Position:  17
+  
+  NEW LOAD CASE: "Plate(23619) FZZ[Global XYZ] [Live Load HL-93] (Max Response)"
+  Path:  1      Lane:  1      Vehicle: 15      Position:  23
+  Path:  1      Lane:  2      Vehicle: 11      Position:  23
+  Path:  1      Lane:  4      Vehicle: 13      Position:  13
+  
+  NEW LOAD CASE: "Plate(25509) FZZ[Global XYZ] [Live Load HL-93] (Max Response)"
+  Path:  1      Lane:  4      Vehicle: 30      Position:  12
+  
+  NEW LOAD CASE: "Plate(25609) FZZ[Global XYZ] [Live Load HL-93] (Max Response)"
+  Path:  1      Lane:  1      Vehicle: 17      Position:  13
+  Path:  1      Lane:  2      Vehicle: 17      Position:  13
+  Path:  1      Lane:  3      Vehicle: 13      Position:  13
+  Path:  1      Lane:  4      Vehicle: 31      Position:  22
+ ________________________________________________________________________________
+  
+ Completion Date:    17 October 2016
+ Completion Time:    12:24:07 pm
+ Time taken:         0:21:42
+ ________________________________________________________________________________
+  

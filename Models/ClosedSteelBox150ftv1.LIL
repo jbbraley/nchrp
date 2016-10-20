@@ -1,0 +1,140 @@
+ ____________________________________________ 
+*Solution commenced on 17/10/2016 at 11:58:19 
+  
+ Strand7 [2.4.6][Solver Build: 24141222] (32-Bit) 
+  
+ ANALYSIS TYPE               : LOAD INFLUENCE 
+  
+ COMPUTER NAME               : X1-DOM 
+ USER LOGON NAME             : Dom 
+ CPU                         : Intel(R) Core(TM) i7-6500U CPU @ 2.50GHz 
+ USABLE PHYSICAL MEMORY      : 4.0 GB 
+ USABLE VIRTUAL MEMORY       : 3.0 GB 
+  
+ MODEL FILE                  : "C:\Users\DomWirk\Documents\git_jbbraley\nchrp\Models\ClosedSteelBox150ftv1.st7" 
+ RESULT FILE                 : "C:\Users\DomWirk\Documents\git_jbbraley\nchrp\Models\ClosedSteelBox150ftv1.LIA" 
+ SCRATCH PATH                : "C:\Users\DomWirk\Strand7\Tmp\" 
+  
+ TOTALS 
+ Nodes                       : 29145 
+ Beams                       :   400 
+ Plates                      : 27600 
+ Bricks                      :     0 
+ Links                       :  8634 
+  
+ SOLVER UNITS 
+ Length                      : in 
+ Mass                        : lbm 
+ Force                       : lbf 
+ Stress                      : psi 
+  
+ FREEDOM CASE                : "Default Case" 
+  
+ RESPONSE VARIABLES          : "Plate(118) FZZ[Global XYZ] [Live Load HL-93] [Default Case] " 
+                             : "Plate(128) FZZ[Global XYZ] [Live Load HL-93] [Default Case] " 
+                             : "Plate(10530) FXX[Global XYZ] [Live Load HL-93] [Default Case] " 
+                             : "Plate(10584) FXX[Global XYZ] [Live Load HL-93] [Default Case] " 
+                             : "Plate(10639) FXX[Global XYZ] [Live Load HL-93] [Default Case] " 
+                             : "Plate(11127) FXX[Global XYZ] [Live Load HL-93] [Default Case] " 
+                             : "Plate(11181) FXX[Global XYZ] [Live Load HL-93] [Default Case] " 
+                             : "Plate(11236) FXX[Global XYZ] [Live Load HL-93] [Default Case] " 
+                             : "Plate(23519) FZZ[Global XYZ] [Live Load HL-93] [Default Case] " 
+                             : "Plate(23619) FZZ[Global XYZ] [Live Load HL-93] [Default Case] " 
+                             : "Plate(25509) FZZ[Global XYZ] [Live Load HL-93] [Default Case] " 
+                             : "Plate(25609) FZZ[Global XYZ] [Live Load HL-93] [Default Case] " 
+  
+ STORAGE SCHEME              : Sparse  
+ SORTING METHOD              : AMD  
+ SOLUTION TYPE               : Direct  
+  
+ NUMBER OF EQUATIONS         : 123603 
+ MATRIX FILL-IN              : 88.8% 
+ [K] MATRIX SIZE             : 235.7 MB 
+ OPTIMUM RAM NEEDED          : 46.8 MB 
+ FREE SCRATCH SPACE          : 96.7 GB 
+  
+*WARNING[230]:Rigid link (Link 8457) may be inhibited by fixed nodal restraints. 
+  
+*WARNING[230]:Rigid link (Link 8465) may be inhibited by fixed nodal restraints. 
+  
+*WARNING[230]:Rigid link (Link 8469) may be inhibited by fixed nodal restraints. 
+  
+*WARNING[230]:Rigid link (Link 8585) may be inhibited by fixed nodal restraints. 
+  
+*WARNING[230]:Rigid link (Link 8445) may be inhibited by fixed nodal restraints. 
+  
+*WARNING[230]:Rigid link (Link 8573) may be inhibited by fixed nodal restraints. 
+  
+*WARNING[230]:Rigid link (Link 8453) may be inhibited by fixed nodal restraints. 
+  
+*WARNING[230]:Rigid link (Link 8449) may be inhibited by fixed nodal restraints. 
+  
+*WARNING[230]:Rigid link (Link 8581) may be inhibited by fixed nodal restraints. 
+  
+ SUMMATION OF VIRTUAL LOADS  
+          Case        FX           FY           FZ           MX           MY           MZ        Name 
+ Beams      1     0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00   "Plate(118) FZZ[Global XYZ] [Live Load HL-93] [Default Case] " 
+            2     0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00   "Plate(128) FZZ[Global XYZ] [Live Load HL-93] [Default Case] " 
+            3     0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00   "Plate(10530) FXX[Global XYZ] [Live Load HL-93] [Default Case] " 
+            4     0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00   "Plate(10584) FXX[Global XYZ] [Live Load HL-93] [Default Case] " 
+            5     0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00   "Plate(10639) FXX[Global XYZ] [Live Load HL-93] [Default Case] " 
+            6     0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00   "Plate(11127) FXX[Global XYZ] [Live Load HL-93] [Default Case] " 
+            7     0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00   "Plate(11181) FXX[Global XYZ] [Live Load HL-93] [Default Case] " 
+            8     0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00   "Plate(11236) FXX[Global XYZ] [Live Load HL-93] [Default Case] " 
+            9     0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00   "Plate(23519) FZZ[Global XYZ] [Live Load HL-93] [Default Case] " 
+           10     0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00   "Plate(23619) FZZ[Global XYZ] [Live Load HL-93] [Default Case] " 
+           11     0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00   "Plate(25509) FZZ[Global XYZ] [Live Load HL-93] [Default Case] " 
+           12     0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00   "Plate(25609) FZZ[Global XYZ] [Live Load HL-93] [Default Case] " 
+ Plates     1     0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00   "Plate(118) FZZ[Global XYZ] [Live Load HL-93] [Default Case] " 
+            2     0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00   "Plate(128) FZZ[Global XYZ] [Live Load HL-93] [Default Case] " 
+            3    -2.32831E-10 -1.16415E-10  0.00000E+00  0.00000E+00  0.00000E+00  5.13299E-25   "Plate(10530) FXX[Global XYZ] [Live Load HL-93] [Default Case] " 
+            4    -2.32831E-10 -1.16415E-10  0.00000E+00  0.00000E+00  0.00000E+00  5.13299E-25   "Plate(10584) FXX[Global XYZ] [Live Load HL-93] [Default Case] " 
+            5    -2.32831E-10 -1.16415E-10  0.00000E+00  0.00000E+00  0.00000E+00  5.13299E-25   "Plate(10639) FXX[Global XYZ] [Live Load HL-93] [Default Case] " 
+            6    -2.32831E-10 -1.16415E-10  0.00000E+00  0.00000E+00  0.00000E+00  5.13299E-25   "Plate(11127) FXX[Global XYZ] [Live Load HL-93] [Default Case] " 
+            7    -2.32831E-10 -1.16415E-10  0.00000E+00  0.00000E+00  0.00000E+00  5.13299E-25   "Plate(11181) FXX[Global XYZ] [Live Load HL-93] [Default Case] " 
+            8    -2.32831E-10 -1.16415E-10  0.00000E+00  0.00000E+00  0.00000E+00  5.13299E-25   "Plate(11236) FXX[Global XYZ] [Live Load HL-93] [Default Case] " 
+            9     0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00   "Plate(23519) FZZ[Global XYZ] [Live Load HL-93] [Default Case] " 
+           10     0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00   "Plate(23619) FZZ[Global XYZ] [Live Load HL-93] [Default Case] " 
+           11     0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00   "Plate(25509) FZZ[Global XYZ] [Live Load HL-93] [Default Case] " 
+           12     0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00   "Plate(25609) FZZ[Global XYZ] [Live Load HL-93] [Default Case] " 
+ Total      1     0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00   "Plate(118) FZZ[Global XYZ] [Live Load HL-93] [Default Case] " 
+            2     0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00   "Plate(128) FZZ[Global XYZ] [Live Load HL-93] [Default Case] " 
+            3    -2.32831E-10 -1.16415E-10  0.00000E+00  0.00000E+00  0.00000E+00  5.13299E-25   "Plate(10530) FXX[Global XYZ] [Live Load HL-93] [Default Case] " 
+            4    -2.32831E-10 -1.16415E-10  0.00000E+00  0.00000E+00  0.00000E+00  5.13299E-25   "Plate(10584) FXX[Global XYZ] [Live Load HL-93] [Default Case] " 
+            5    -2.32831E-10 -1.16415E-10  0.00000E+00  0.00000E+00  0.00000E+00  5.13299E-25   "Plate(10639) FXX[Global XYZ] [Live Load HL-93] [Default Case] " 
+            6    -2.32831E-10 -1.16415E-10  0.00000E+00  0.00000E+00  0.00000E+00  5.13299E-25   "Plate(11127) FXX[Global XYZ] [Live Load HL-93] [Default Case] " 
+            7    -2.32831E-10 -1.16415E-10  0.00000E+00  0.00000E+00  0.00000E+00  5.13299E-25   "Plate(11181) FXX[Global XYZ] [Live Load HL-93] [Default Case] " 
+            8    -2.32831E-10 -1.16415E-10  0.00000E+00  0.00000E+00  0.00000E+00  5.13299E-25   "Plate(11236) FXX[Global XYZ] [Live Load HL-93] [Default Case] " 
+            9     0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00   "Plate(23519) FZZ[Global XYZ] [Live Load HL-93] [Default Case] " 
+           10     0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00   "Plate(23619) FZZ[Global XYZ] [Live Load HL-93] [Default Case] " 
+           11     0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00   "Plate(25509) FZZ[Global XYZ] [Live Load HL-93] [Default Case] " 
+           12     0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00   "Plate(25609) FZZ[Global XYZ] [Live Load HL-93] [Default Case] " 
+ Vector     1     0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00   "Plate(118) FZZ[Global XYZ] [Live Load HL-93] [Default Case] " 
+            2     0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00   "Plate(128) FZZ[Global XYZ] [Live Load HL-93] [Default Case] " 
+            3    -2.32831E-10 -1.16415E-10  0.00000E+00  0.00000E+00  0.00000E+00  5.13299E-25   "Plate(10530) FXX[Global XYZ] [Live Load HL-93] [Default Case] " 
+            4    -2.32831E-10 -1.28057E-09  0.00000E+00  0.00000E+00  0.00000E+00  5.13299E-25   "Plate(10584) FXX[Global XYZ] [Live Load HL-93] [Default Case] " 
+            5    -2.32831E-10 -1.16415E-10  0.00000E+00  0.00000E+00  0.00000E+00  5.13299E-25   "Plate(10639) FXX[Global XYZ] [Live Load HL-93] [Default Case] " 
+            6    -2.32831E-10 -1.16415E-10  0.00000E+00  0.00000E+00  0.00000E+00  5.13299E-25   "Plate(11127) FXX[Global XYZ] [Live Load HL-93] [Default Case] " 
+            7    -2.32831E-10 -1.28057E-09  0.00000E+00  0.00000E+00  0.00000E+00  5.13299E-25   "Plate(11181) FXX[Global XYZ] [Live Load HL-93] [Default Case] " 
+            8    -2.32831E-10 -1.16415E-10  0.00000E+00  0.00000E+00  0.00000E+00  5.13299E-25   "Plate(11236) FXX[Global XYZ] [Live Load HL-93] [Default Case] " 
+            9     0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00   "Plate(23519) FZZ[Global XYZ] [Live Load HL-93] [Default Case] " 
+           10     0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00   "Plate(23619) FZZ[Global XYZ] [Live Load HL-93] [Default Case] " 
+           11     0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00   "Plate(25509) FZZ[Global XYZ] [Live Load HL-93] [Default Case] " 
+           12     0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00  0.00000E+00   "Plate(25609) FZZ[Global XYZ] [Live Load HL-93] [Default Case] " 
+  
+ Reducing 123603 Equations (Using 235.7 MB RAM)... 
+  
+ MAXIMUM PIVOT               : 7.246029E+09 (Node 6993 RX) 
+ MINIMUM PIVOT               : 1.580836E+04 (Node 26956 DY) 
+  
+ TOTAL CPU TIME              : 11.141 Seconds ( 0:00:11) 
+  
+*Solution completed on 17/10/2016 at 11:58:30 
+*Solution time: 11 Seconds 
+  
+ 
+*SUMMARY OF MESSAGES
+*Number of Notes    : 0
+*Number of Warnings : 9
+*Number of Errors   : 0
+ 
